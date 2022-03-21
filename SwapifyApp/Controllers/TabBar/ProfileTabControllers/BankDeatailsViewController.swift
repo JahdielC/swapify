@@ -21,4 +21,5 @@ class BankDeatailsViewController: UIViewController {
         dismiss(animated: true, completion: nil)
     }
 
+    
 }
