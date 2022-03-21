@@ -1,0 +1,6 @@
+framework module Pods_SwapifyAppTests {
+  umbrella header "Pods-SwapifyAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
